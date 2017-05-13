@@ -1,5 +1,8 @@
 # Particle-based Fluid Simulation
 
+<img src = "https://cloud.githubusercontent.com/assets/13710785/26028760/a3c00888-37f4-11e7-80b3-c60c6891d55c.png" width = "400">
+
+
 ### Dependencies
 opengl, glut, glfw.  
 
