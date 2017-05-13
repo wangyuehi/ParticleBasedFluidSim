@@ -7,9 +7,9 @@ opengl, glut, glfw.
 -lglfw
 
 ### Iteraction
-'A' or 'a' to start simulate
-mouse left key to change perspective
-mouse right key to apply forces
+* 'A' or 'a' to start simulate
+* mouse left key to change perspective
+* mouse right key to apply forces
 
 ### References
 Matthias Müller, David Charypar, and Markus Gross. 2003. Particle-based  uid simulation for interactive applications. In Proceedings of the 2003 ACM SIG-
